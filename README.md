@@ -13,9 +13,9 @@ Explanation with Sample </br>
 
 **Task**</br>
 Create a program that reads a file with the following format:</br>
-First line of input file has an integer **T**(number of test cases).  
+First line of input file has an integer **T**(number of test cases).  </br>
 **T** lines follows having an integer in each **N**(number of troops in Xars kingdom).
-</br>
+</br></br>
 As output the program should for each test case, print an integer answer within how many hours should Zars should enter Xars kingdom.
 
 **Constraints:**  
