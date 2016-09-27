@@ -24,8 +24,8 @@ Explanation with Sample
 **Case 3:** For three troops, it takes 1 hour for soldier **X1** to transfer information from king's castle to the troop. A soldier(**X2**) of this troop takes another hour to alert one other troop. In the mean while **X1** alerts the third troop.
 
 
-Limitations:
-Time 1sec per file
-Memory 256
-Source code Limit 1mb
+<b>Limitations:</b>
+**Time 1sec per file**
+**Memory 256**
+**Source code Limit 1mb**
 
