@@ -12,7 +12,7 @@ Explanation with Sample </br>
 **Case 3:** For three troops, it takes 1 hour for soldier **X1** to transfer information from king's castle to the troop. A soldier(**X2**) of this troop takes another hour to alert one other troop. In the mean while **X1** alerts the third troop.
 
 **Task**</br>
-Create a program that reads a file with the following format:</br>
+Create a program that reads a file called "input.txt" located in the same folder as the program with the following format:</br>
 First line of input file has an integer **T**(number of test cases).  </br>
 **T** lines follows having an integer in each **N**(number of troops in Xars kingdom).
 </br></br>
