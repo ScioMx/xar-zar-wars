@@ -6,12 +6,12 @@ The Xars kingdom is now having threat from the Zars kingdom. The king of Xars re
 
 Once Zars kingdom enters territory of Xars, all the army of Xars that received the information will be set into fight and stop spreading the message. Xars and Zars are equally powerful that even if one troop of Xars do not receive information and are not involved in the war, they lose. So the question for you is, for Zars to win the war, within how many hours should they enter the territory of Xars kingdom?
 
-Explanation with Sample 
+Explanation with Sample </br>
 **Case 1:** For only one troop, it takes 1 hour to transfer information from king's castle to the troop.  
 **Case 2:** For two troops, it takes 1 hour to transfer information from king's castle to the troop. A soldier of this troop takes another hour to alert the other troop.  
 **Case 3:** For three troops, it takes 1 hour for soldier **X1** to transfer information from king's castle to the troop. A soldier(**X2**) of this troop takes another hour to alert one other troop. In the mean while **X1** alerts the third troop.
 
-**Task**
+**Task**</br>
 Create a program that reads a file with the following format:</br>
 First line of input file has an integer **T**(number of test cases).  
 **T** lines follows having an integer in each **N**(number of troops in Xars kingdom).
