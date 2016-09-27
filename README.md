@@ -30,6 +30,7 @@ As output the program should for each test case, print an integer answer within 
 <li>Source code Limit 1mb</li>
 </ul>
 
-
+<h1>Disclaimer</h1>
+<code><pre>* Any submission that does not compile or don't complies with the limitations will be discarded, read carefully the problem and verify that you meet the constrains and the limitations.</pre></code>
 
 
