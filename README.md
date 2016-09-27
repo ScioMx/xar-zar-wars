@@ -25,7 +25,12 @@ Explanation with Sample
 
 
 <b>Limitations:</b>
-**Time 1sec per file**
-**Memory 256**
-**Source code Limit 1mb**
+<ul>
+<li>**Time 1sec per file**</li>
+<li>**Memory 256**</li>
+<li>**Source code Limit 1mb**</li>
+</ul>
+
+
+
 
